@@ -23,8 +23,8 @@ hr{
 }
 
 .tile{
-    width: 88px;
-    height: 88px;
+    width: 89.3px;
+    height: 89.3px;
     /* Since each tile will have 5px border all side soo 100-5-5=90px */
     border: 6px solid #bbada0;
     
